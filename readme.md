@@ -5,10 +5,10 @@
 ### PREVIEW
 
 <p align="center">
-  <img src="preview/p1"  alt="photo 1">
-  <img src="preview/p2"  alt="photo 2">
-  <img src="preview/p3"  alt="photo 3">
-  <img src="preview/p4"  alt="photo 4">
+  <img src="preview/p1.png"  alt="photo 1">
+  <img src="preview/p2.png"  alt="photo 2">
+  <img src="preview/p3.png"  alt="photo 3">
+  <img src="preview/p4.png"  alt="photo 4">
 </p>
 
 ### INSTRUCTIONS :
