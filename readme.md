@@ -4,5 +4,7 @@
 
 ### USAGE :
 
+###### run the following commands:
+
 - `clone https://github.com/Mrkouhadi/ts-canvas.git`
 - `tsc --w`
