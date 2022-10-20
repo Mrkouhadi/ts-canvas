@@ -74,3 +74,4 @@ RandomFlower.DrawFractional();
 // random fractionals
 document.getElementById("draw")!.addEventListener('click', RandomFlower.randomizeFractionals)
 document.getElementById("reset")!.addEventListener('click', RandomFlower.reset)
+
